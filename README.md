@@ -8,3 +8,4 @@ Project for building end to end pipeline for house price prediction. Following s
 - Model Building
 - Model Evaluation
 - Hyper-parameter tuning
+- Ensemble methods
